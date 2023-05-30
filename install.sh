@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="1.0.3"
-DOWNLOAD_HOST="https://github.com/nulizhaoq/obminerproxy/raw/main"
+DOWNLOAD_HOST="https://github.com/obminerproxy/obminerproxy/raw/main"
 ORIGIN_EXEC="obminer-${VERSION}"
 
 SERVICE_NAME="observice"
